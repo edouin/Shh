@@ -1,5 +1,3 @@
-import * as THREE from 'three';
-
 console.log('DEBUG: app.js loaded');
 
 // Scene setup
